@@ -1,4 +1,4 @@
-# BayrakUygulamasi
+# BayraklarUygulamasi
 Swift - Sqlite
 
 <img width="340" alt="Screenshot 2023-09-13 at 22 13 50" src="https://github.com/enesgumus/BayrakUygulamasi/assets/80697341/7763939c-ef41-417e-9106-7e4626d941c4">
